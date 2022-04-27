@@ -3,7 +3,7 @@
 I'am a software developer base on Toronto Canada, I specialized in building Web Applications, I can also build Native Applications and Mobile Apps.
 
 | Front End Skills      | Back End Skills |
-| ----------------------|:---------------:|
+| --------------------- |:---------------:|
 | Vue.js                | tew             |
 | Nuxt.js               |                 |
 | Quasar.js             |                 |
