@@ -2,7 +2,7 @@
 
 I'am a software developer base on Toronto Canada, I specialized in building Web Applications, I can also build Native Applications and Mobile Apps.
 
-- ### My specializations
+- #### My specializations
 
 | My Front End Skills                       | My Back End Skills    | 
 | ------------------------------------------| :----------------:    |
