@@ -4,7 +4,7 @@ I'am a software developer base on Toronto Canada, I specialized in building Web 
 
 <hr/>
 
-- #### My Skills ⚡
+- #### ⚡ My Skills 
 
 | My Front End Skills                       | My Back End Skills    | Other Skills            |
 | ------------------------------------------| :----------------:    | :---------------------: |
@@ -19,6 +19,13 @@ I'am a software developer base on Toronto Canada, I specialized in building Web 
 `
 I am currently working on a web based system builder, its like a CMS but better, more features, where there is a dashboard and can clone it self, isnt it awesome where a technology can re build it self without coding? 😄
 `
+
+- 📫 How to reach me: ...
+
+marvenwilsons@gmail.com
+
+
+
 <!--
 **marvenwilsons/marvenwilsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +36,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
