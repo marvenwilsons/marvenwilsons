@@ -16,9 +16,9 @@ I'am a software developer base on Toronto Canada, I specialized in building Web 
 
 
 - #### 🔭 I’m currently working on ...
-```
-I am currently working on a web based system builder, where a there is a dashboard that can clone it self, isnt it awesome where a technology can re build it self?
-```
+`
+I am currently working on a web based system builder, its like a CMS but better, more features, where there is a dashboard and can clone it self, isnt it awesome where a technology can re build it self without coding? 😄
+`
 <!--
 **marvenwilsons/marvenwilsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
