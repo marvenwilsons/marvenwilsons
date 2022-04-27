@@ -2,10 +2,11 @@
 
 I'am a software developer base on Toronto Canada, I specialized in building Web Applications, I can also build Native Applications and Mobile Apps.
 
-| Javascript      | Are           | Cool  |
-| Vue.js          | right-aligned | $1600 |
-| Quasar.js       | centered      |   $12 |
-|                 | are neat      |    $1 |
+| Skills          | 
+| ----------------|
+| Vue.js          |
+| Quasar.js       |
+| CSS             |
 
 <!--
 **marvenwilsons/marvenwilsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
