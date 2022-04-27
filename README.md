@@ -4,7 +4,7 @@ I'am a software developer base on Toronto Canada, I specialized in building Web 
 
 <hr/>
 
-- #### ⚡ My Skills
+- #### My Skillsv ⚡
 
 | My Front End Skills                       | My Back End Skills    | Other Skills            |
 | ------------------------------------------| :----------------:    | :---------------------: |
