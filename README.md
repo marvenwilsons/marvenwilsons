@@ -2,13 +2,13 @@
 
 I'am a software developer base on Toronto Canada, I specialized in building Web Applications, I can also build Native Applications and Mobile Apps.
 
-| Front End Skills      | Back End Skills |
-| --------------------- | :-------------: |
-| Vue.js                | Node.js         |
-| Nuxt.js               | MySQL           |
-| Quasar.js             | PostgreSQL      |
-| HTML                  | REST            |
-| CSS                   | Docker          |
+| My Front End Skills      | My Back End Skills |
+| ------------------------ | :----------------: |
+| Vue.js                   | Node.js            |
+| Nuxt.js                  | MySQL              |
+| Quasar.js                | PostgreSQL         |
+| HTML                     | REST               |
+| CSS                      | Docker             |
 
 <!--
 **marvenwilsons/marvenwilsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
