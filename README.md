@@ -2,6 +2,12 @@
 
 I'am a software developer base on Toronto Canada, I specialized in building Web Applications, I can also build Native Applications and Mobile Apps.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 <!--
 **marvenwilsons/marvenwilsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
